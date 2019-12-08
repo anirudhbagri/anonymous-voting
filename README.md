@@ -16,10 +16,8 @@ Currently the system allows only voting for either Yes or No.
 
 ## Screenshots:
 
-
-![](screenshots/SS1.jpg)
-![](screenshots/SS2.jpg)
-![](screenshots/SS3.jpg)
-![](screenshots/SS4.jpg)
-
-
+<img src="/screenshots/SS1.jpeg"  width="200" height="400">
+<img src="/screenshots/SS2.jpeg"  width="200" height="400">
+<br>
+<img src="/screenshots/SS3.jpeg"  width="200" height="400">
+<img src="/screenshots/SS4.jpeg"  width="200" height="400">
