@@ -1,0 +1,11 @@
+image: cirrusci/flutter:stable
+
+stages:
+  - build
+  
+build:
+  stage: build
+  script:
+    - flutter build apk
+  tags:
+    - shared
