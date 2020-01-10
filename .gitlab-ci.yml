@@ -8,5 +8,9 @@ build:
   script:
     - cd  client
     - flutter build apk
+    - ls
+  artifacts:
+    paths:
+    - app/build/outputs/
   tags:
     - shared
