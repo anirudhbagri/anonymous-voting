@@ -6,6 +6,7 @@ stages:
 build:
   stage: build
   script:
+    - cd  client
     - flutter build apk
   tags:
     - shared
