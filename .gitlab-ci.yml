@@ -8,7 +8,7 @@ build:
   script:
     - cd  client
     - flutter build apk
-    - ls
+    - ls -R | grep ":$" | sed -e 's/:$//' -e 's/[^-][^\/]*\//--/g' -e 's/^/   /' -e 's/-/|/'
   artifacts:
     paths:
     - build/
