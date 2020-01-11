@@ -11,7 +11,7 @@ build:
     - ls -R | grep ":$" | sed -e 's/:$//' -e 's/[^-][^\/]*\//--/g' -e 's/^/   /' -e 's/-/|/'
   artifacts:
     paths:
-      - build/app/outputs/apk/release/app-release.apk
+      - client/build/app/outputs/apk/release/app-release.apk
     expire_in: 1 year
   tags:
     - shared
