@@ -17,6 +17,8 @@ jobs:
         echo test, and deploy your project.
         cd client
     - name: Flutter CLI
-      uses: steebchen/flutter@v1.0.0
+    - uses: ./client
+    - uses: steebchen/flutter@v1.0.0
       with: 
         args: build apk --release
+  
