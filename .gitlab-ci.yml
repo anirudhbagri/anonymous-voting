@@ -13,12 +13,6 @@ build:
     paths:
       - client/build/app/outputs/apk/release/app-release.apk
     expire_in: 1 year
-  release:
-    name: $CI_PROJECT_NAME Release 1.0-$CI_COMMIT_SHORT_SHA
-    description: ./release_changelog.txt
-    assets:
-    - name: anonymous_voting.apk
-      path: client/build/app/outputs/apk/release/app-release.apk
 
   tags:
     - shared
