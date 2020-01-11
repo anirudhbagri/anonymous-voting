@@ -15,7 +15,8 @@ jobs:
       run: |
         echo Add other actions to build,
         echo test, and deploy your project.
-    - name: Flutter CLI
-      run: | 
         cd client
-        flutter build apk
+    - name: Flutter CLI
+      uses: steebchen/flutter@v1.0.0
+      with: 
+        args: build apk --release
