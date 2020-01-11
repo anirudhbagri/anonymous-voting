@@ -10,11 +10,14 @@ Currently the system allows only voting for either Yes or No.
 # Setup 1 - Without creating your own server
 
 1. Install the client app in any device (android/ios)
-2. Enter the temporary server address: d4735214.pythonanywhere.com
-   Note: Do not enter http/https in the address field
+2. Enter the temporary server address: 
+>  **d4735214.pythonanywhere.com**
+
 3. Hit PING to check if you are connected
 4. Enjoy!
 
+**(Note: Do not enter http/https in the address field)**
+ 
 # Setup 2 - Create your own server in LAN
 
 1. Run the server.py file using python from any computer in network which is accessible from other devices in network.
