@@ -5,7 +5,7 @@ The Idea of this app is to create a local (over-LAN) anonymous voting system.
 Currently the system allows only voting for either Yes or No.
 
 # Downloads
- Version 1.0.0 -> [apk](https://gitlab.com/anirudhbagri/anonymous-voting/-/jobs/400003065/artifacts/raw/client/build/app/outputs/apk/release/app-release.apk)
+ v1.0.0 -> [apk](https://gitlab.com/anirudhbagri/anonymous-voting/-/jobs/400003065/artifacts/raw/client/build/app/outputs/apk/release/app-release.apk)
 
 # Setup 1 - Without creating your own server
 
