@@ -6,6 +6,7 @@ Currently the system allows only voting for either Yes or No.
 
 # Downloads
  latest -> [apk](https://gitlab.com/anirudhbagri/anonymous-voting/builds/artifacts/master/raw/client/build/app/outputs/apk/release/app-release.apk?job=build)
+ 
  v1.0.0 -> [apk](https://gitlab.com/anirudhbagri/anonymous-voting/-/jobs/400003065/artifacts/raw/client/build/app/outputs/apk/release/app-release.apk)
 
 # Setup 1 - Without creating your own server
